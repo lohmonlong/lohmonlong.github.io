@@ -1,0 +1,6 @@
+customhost = "employee.cueatazsunsq.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "abc12345"
+customdb = "employee"
+custombucket = "s3-lml-bucket"
+customregion = "us-east-1"
